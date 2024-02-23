@@ -3,7 +3,7 @@
 
 <!--  -->
 <picture>
-  <img src="https://labibliotecadealexandria.com/wp-content/uploads/2022/07/Etapas-do-Data-Science-para-aplicar-na-sua-empresa.gif" style="width: 50px;">
+  <img src="https://private-user-images.githubusercontent.com/150481918/307428834-2f0f298f-9011-4036-86c4-e822a1f28c50.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDg3MTYyNjIsIm5iZiI6MTcwODcxNTk2MiwicGF0aCI6Ii8xNTA0ODE5MTgvMzA3NDI4ODM0LTJmMGYyOThmLTkwMTEtNDAzNi04NmM0LWU4MjJhMWYyOGM1MC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMjIzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDIyM1QxOTE5MjJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iNjhkM2Q0NTIxMzVlOTk4YmNiYWU2MzIzNTJmMWI4YTZlYTM1MWRjZWU3OTlmMWY5ZDk5ZjBhYjY4ZDA1MDVhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.tzYk70fQrxbvaFy81G0m_8u361mPyEmmoON-hOtS0hs" style="width:;">
 </picture>
 
 
