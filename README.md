@@ -2,7 +2,8 @@
 <h1 align="center" style="color: #04eba3;"><b># print("Hola mundo") </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <!--  -->
-![Learning Data Science](https://github.com/eduardo-larriaga/img/assets/150481918/757d37f7-a8a0-4fb7-8245-1462ff318692)
+![Learning Data Science-2](https://github.com/eduardo-larriaga/img/assets/150481918/7ad8f1d0-d803-4453-b02d-9844123c5f74)
+
 
 
 
