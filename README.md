@@ -1,16 +1,14 @@
-### Hi there 👋
+# Bienvenido a mi repositorio
 
-<!--
-**eduardo-larriaga/eduardo-larriaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Este es un repositorio increíble donde encontrarás proyectos emocionantes y código sorprendente.
 
-Here are some ideas to get you started:
+## Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+¡Hola! Soy Eduardo Larriaga, un entusiasta del desarrollo de software apasionado por la tecnología y la innovación.
+
+## Contacto
+
+Puedes contactarme en:
+
+- Email: tuemail@example.com
+- LinkedIn: [Eduardo Larriaga](https://www.linkedin.com/in/tuperfil)
