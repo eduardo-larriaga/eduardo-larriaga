@@ -1,4 +1,4 @@
-# Bienvenido a mi repositorio
+# print("Hola")
 
 ## Sobre mí
 Profesional en gestión de productos y proyectos digitales, graduado de Ingeniería Comercial y Diseño. Experiencia en Fintech, 
