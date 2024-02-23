@@ -1,5 +1,6 @@
 
-<h1 align="center" style="color: white;"><b># print("Hola") , I'm Eduardo </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center" style="color: #04eba3;"><b># print("Hola") , I'm Eduardo </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
 <!--  -->
 <picture>
   <img src="https://labibliotecadealexandria.com/wp-content/uploads/2022/07/Etapas-do-Data-Science-para-aplicar-na-sua-empresa.gif" style="width: 50px;">
